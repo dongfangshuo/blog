@@ -4,7 +4,9 @@ title: JavaScript 标准参考教程（alpha）
 date: 2012-11-18
 modifiedOn: 2014-05-18
 ---
-	
+<h1>这是复制阮一峰的  
+[博客](http://javascript.ruanyifeng.com/)
+，主要是学习如何搭建自己的博客</h1>	
 <h2 id="introduction">导论</h2>
 
 - [前言](introduction/preface.html)

@@ -11,10 +11,10 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.宇宙中心'),
-    tag2       = $('.技术'),
-    tag3       = $('.吐槽'),
-    tag4       = $('.记录'),
+    tag1       = $('.all'),
+    tag2       = $('.code'),
+    tag3       = $('.hehe'),
+    tag4       = $('.record'),
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),

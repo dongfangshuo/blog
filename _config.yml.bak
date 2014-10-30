@@ -1,7 +1,0 @@
-pygments: true
-markdown: redcarpet
-baseurl: "/blog"
-sitename: shuo
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-keep_files:   [".git", ".svn"]
-permalink: /:title

@@ -2,4 +2,4 @@ pygments: true
 markdown: redcarpet
 sitename: shuo
 #permalink: /:categories/:year/:month/:day/:title
-permalink: pretty
+permalink:pretty

@@ -11,7 +11,7 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.all'),
+    tag1       = $('.pl__all'),
     tag2       = $('.code'),
     tag3       = $('.hehe'),
     tag4       = $('.record');

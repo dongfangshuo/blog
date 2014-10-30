@@ -1,7 +1,6 @@
 ---
 layout: post
 title: haha
-category: hehe
 categories: hehe 
 url: ll
 ---

@@ -1,9 +1,7 @@
 ---
 layout: post
-title: haha
 categories: hehe 
 tag: hehe
-tags: hehe
 ---
 
 

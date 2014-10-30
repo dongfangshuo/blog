@@ -3,5 +3,5 @@ markdown: redcarpet
 sitename: shuo
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 keep_files:   [".git", ".svn"]
-#permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title
 #permalink: date

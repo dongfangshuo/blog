@@ -1,8 +1,9 @@
 ---
 layout: post
 title: haha
-categories:hehe 
-url:ll
+category: hehe
+categories: hehe 
+url: ll
 ---
 
 

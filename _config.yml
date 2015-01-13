@@ -1,6 +1,6 @@
 pygments: true
 markdown: redcarpet
-baseurl: http://dongfangshuo.github.io/blog
+baseurl: http://blog.eastshuo.com
 sitename: shuo
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 keep_files:   [".git", ".svn"]
